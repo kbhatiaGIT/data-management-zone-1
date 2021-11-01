@@ -30,6 +30,7 @@ var privateDnsZoneNames = [
   'privatelink.dfs.${environment().suffixes.storage}'
   'privatelink.documents.azure.com'
   'privatelink.eventgrid.azure.net'
+  'privatelink.eventgrid.windows.net'
   'privatelink.file.${environment().suffixes.storage}'
   'privatelink.gremlin.cosmos.azure.com'
   'privatelink.mariadb.database.azure.com'

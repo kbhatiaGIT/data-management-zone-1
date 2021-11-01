@@ -5,7 +5,7 @@
     "_generator": {
       "name": "bicep",
       "version": "0.4.1008.15138",
-      "templateHash": "16584189192184544370"
+      "templateHash": "13652748191329033012"
     }
   },
   "parameters": {
@@ -1892,7 +1892,7 @@
             "_generator": {
               "name": "bicep",
               "version": "0.4.1008.15138",
-              "templateHash": "15535009285184117544"
+              "templateHash": "11634202772651701185"
             }
           },
           "parameters": {
@@ -1925,7 +1925,7 @@
               "privatelink.dev.azuresynapse.net",
               "[format('privatelink.dfs.{0}', environment().suffixes.storage)]",
               "privatelink.documents.azure.com",
-              "privatelink.eventgrid.azure.net",
+              "privatelink.eventgrid.windows.net",
               "[format('privatelink.file.{0}', environment().suffixes.storage)]",
               "privatelink.gremlin.cosmos.azure.com",
               "privatelink.mariadb.database.azure.com",
